@@ -1,3 +1,9 @@
+# luis.vi
+.env
+
 # Emacs
 *.#*
 *.~undo-tree~
+
+# Vim
+*.swp
