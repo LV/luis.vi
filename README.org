@@ -1,0 +1,18 @@
+#+title: luis.vi
+#+author: Luis Victoria
+#+description: My Home Infrastructure
+
+I am using the Raspberry Pi 5 8GB to run my home infrastructure
+
+* Getting Started
+This guide assumes that you are using Ubuntu Server 24.04
+
+To see what OS/version you're using, run ~cat /etc/lsb-release~
+
+** Pre-requisites
+#+begin_src sh
+  sudo apt-get install make
+#+end_src
+
+* DuckDNS
+[[https://www.duckdns.org/install.jsp?tab=linux-cron&domain=luisv][link to documentation]]
