@@ -16,3 +16,9 @@ To see what OS/version you're using, run ~cat /etc/lsb-release~
 
 * DuckDNS
 [[https://www.duckdns.org/install.jsp?tab=linux-cron&domain=luisv][link to documentation]]
+
+Run ~crontab -e~ and paste the following text:
+
+#+begin_src sh
+  ,*/5 * * * * /PATH/TO/luis.vi/scripts/duck.sh >/dev/null 2>&1
+#+end_src
