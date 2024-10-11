@@ -11,7 +11,7 @@ To see what OS/version you're using, run ~cat /etc/lsb-release~
 
 ** Pre-requisites
 #+begin_src sh
-  sudo apt-get install make
+  sudo apt install curl make
 #+end_src
 
 * DuckDNS
