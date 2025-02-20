@@ -1,3 +1,5 @@
 #+TITLE: luis.vi
 #+AUTHOR: Luis Victoria
 #+DESCRIPTION: My peresonal webpage built using org-mode
+
+/This webpage is built using org-mode, thanks to [[https://youtu.be/AfkrzFodoNw?si=r5ztjDyPwhxYK7lV][System Crafters' tutorial]]./
